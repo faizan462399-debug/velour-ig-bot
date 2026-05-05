@@ -23,7 +23,7 @@ An intelligent messaging system built for **VELOUR Premium Clothing**. This bot 
 * **Tunneling:** ngrok
 
 ## ⚙️ Setup
-1. Clone repo: `git clone https://github.comfaizan462399/velour-ig-bot.git`
+1. Clone repo: `git clone https://github.com/faizan462399-debug/velour-ig-bot.git`
 2. Install: `pip install -r requirements.txt`
 3. Configure `.env` with your API Keys (Meta & Groq).
 4. Run: `python app.py`
